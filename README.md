@@ -8,7 +8,7 @@ Kisan Mitra AI is an intelligent agricultural support system designed to assist 
 
 Agriculture plays a vital role in India's economy. However, farmers often face challenges such as crop diseases, unpredictable weather, lack of expert guidance, and market uncertainty.
 
-Click here to open the app[https://kisan-mitra-ai-rho.vercel.app/]
+Click here to open the app[https://kisan-mitra-ai-mu.vercel.app/]
 
 **Kisan Mitra AI** aims to bridge this gap by providing:
 
