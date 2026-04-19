@@ -44,13 +44,12 @@ Click here to open the app[https://kisan-mitra-ai-mu.vercel.app/]
 - Node.js
 - express.js
 
- Database
- MongoDB
+
 
 AI / ML
 - Scikit-learn
 - TensorFlow / Keras
-- OpenCV (for image processing)
+
 
  Tools
 - Git & GitHub
