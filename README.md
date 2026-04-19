@@ -37,14 +37,15 @@ Click here to open the app[https://kisan-mitra-ai-mu.vercel.app/]
 - HTML
 - CSS
 - JavaScript
-- Bootstrap / Tailwind (if used)
+- Typescript
 
  Backend
-- Python (Flask / FastAPI / Django)
-- Node.js (if applicable)
+
+- Node.js
+- express.js
 
  Database
-- MySQL / SQLite / MongoDB
+ MongoDB
 
 AI / ML
 - Scikit-learn
